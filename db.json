@@ -3,13 +3,15 @@
     {
     "id": 1,
     "name": "David",
-    "age": 30
+    "age": 30,
+    "imgURL": "https://images.unsplash.com/photo-1644704480315-bc18243f5f79?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80"
     },
 
     {
     "id": 2,
     "name": "Jim",
-    "age": 29
+    "age": 29,
+    "imgURL": "https://images.unsplash.com/photo-1644704480315-bc18243f5f79?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80"
     }
   ]
 }
