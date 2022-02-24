@@ -2,7 +2,7 @@
   "users": [
     {
     "id": 1,
-    "name": "David",
+    "name": "Fruits",
     "age": 30,
     "imgURL": "https://images.unsplash.com/photo-1644704480315-bc18243f5f79?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80"
     },
@@ -82,6 +82,62 @@
     "name": "Jim",
     "age": 29,
     "imgURL": "https://images.unsplash.com/photo-1644440534168-b07b44354388?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    }
+
+    {
+    "id": 13,
+    "name": "Burger",
+    "age": 30,
+    "imgURL": "https://images.unsplash.com/photo-1644447295446-19b7e712a895?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    },
+
+    {
+    "id": 14,
+    "name": "Mango Ice Cream",
+    "age": 29,
+    "imgURL": "https://images.unsplash.com/photo-1643813069855-7c9d8b6a8e66?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    },
+
+    {
+    "id": 15,
+    "name": "Macarons",
+    "age": 29,
+    "imgURL": "https://images.unsplash.com/photo-1643628580623-032e07f93364?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    },
+
+    {
+    "id": 16,
+    "name": "Citrus",
+    "age": 29,
+    "imgURL": "https://images.unsplash.com/photo-1643131514219-1e480cce39aa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    },
+
+    {
+    "id": 17,
+    "name": "Latte",
+    "age": 30,
+    "imgURL": "https://images.unsplash.com/photo-1641135306481-5f4e84567259?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80"
+    },
+
+    {
+    "id": 18,
+    "name": "Scone",
+    "age": 29,
+    "imgURL": "https://images.unsplash.com/photo-1640660611022-5e0fbcc9ebd2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80"
+    },
+
+    {
+    "id": 19,
+    "name": "Coffee",
+    "age": 29,
+    "imgURL": "https://images.unsplash.com/photo-1639677322786-3c8154ebd750?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=327&q=80"
+    },
+
+    {
+    "id": 20,
+    "name": "Garlic",
+    "age": 29,
+    "imgURL": "https://images.unsplash.com/photo-1638723227150-8b805891321f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
     }
 
   ]
