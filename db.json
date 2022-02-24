@@ -4,83 +4,95 @@
     "id": 1,
     "name": "Fruits",
     "age": 30,
+    "title": "Gen 4",
     "imgURL": "https://images.unsplash.com/photo-1644704480315-bc18243f5f79?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80"
     },
 
     {
     "id": 2,
-    "name": "Jim",
+    "name": "Cereal",
     "age": 29,
+    "title": "Gen 5",
     "imgURL": "https://images.unsplash.com/photo-1645517976245-569a91016f79?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=361&q=80"
     },
 
     {
     "id": 3,
-    "name": "Jim",
+    "name": "Mushroom",
     "age": 29,
+    "title": "Gen 2",
     "imgURL": "https://images.unsplash.com/photo-1645106540091-219948d3ce39?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80"
     },
 
     {
     "id": 4,
-    "name": "Jim",
+    "name": "Burger",
     "age": 29,
-    "imgURL": "https://images.unsplash.com/photo-1645517976245-569a91016f79?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=361&q=80"
+    "title": "Gen 5",
+    "imgURL": "https://images.unsplash.com/photo-1637637187692-9736fe7b7973?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDM0OHx4alBSNGhsa0JHQXx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=600&q=60"
     },
 
     {
     "id": 5,
-    "name": "David",
+    "name": "Yogurt",
     "age": 30,
+    "title": "Gen 5",
     "imgURL": "https://images.unsplash.com/photo-1645466525466-647ef246067f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
     },
 
     {
     "id": 6,
-    "name": "Jim",
+    "name": "Coffee",
     "age": 29,
+    "title": "Gen 2",
     "imgURL": "https://images.unsplash.com/photo-1645268087365-953f5638f21e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=415&q=80"
     },
 
     {
     "id": 7,
-    "name": "Jim",
+    "name": "Juice",
     "age": 29,
-    "imgURL": "https://images.unsplash.com/photo-1645517976245-569a91016f79?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=361&q=80"
+    "title": "Gen 2",
+    "imgURL": "https://images.unsplash.com/photo-1633932934464-5420d4bc89e6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDQ0NXx4alBSNGhsa0JHQXx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=600&q=60"
     },
 
     {
     "id": 8,
-    "name": "Jim",
+    "name": "Pudding",
     "age": 29,
+    "title": "Gen 4",
     "imgURL": "https://images.unsplash.com/photo-1645377370247-c4354ce4d328?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80"
     },
 
     {
     "id": 9,
-    "name": "David",
+    "name": "Hot Chocolate",
     "age": 30,
+    "title": "Gen 4",
     "imgURL": "https://images.unsplash.com/photo-1639046033583-390653f5c09a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
     },
 
     {
     "id": 10,
-    "name": "Jim",
+    "name": "Blood Oranges",
     "age": 29,
+    "title": "Gen 4",
     "imgURL": "https://images.unsplash.com/photo-1644751291719-574ef771ba30?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80"
     },
 
     {
     "id": 11,
-    "name": "Jim",
+    "name": "Porridge",
     "age": 29,
+    "title": "Gen 4",
     "imgURL": "https://images.unsplash.com/photo-1636143938273-5757142a76e5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
     },
 
     {
     "id": 12,
-    "name": "Jim",
+    "name": "Apple",
     "age": 29,
+    "title": "Gen 4",
     "imgURL": "https://images.unsplash.com/photo-1644440534168-b07b44354388?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
     },
 
@@ -88,6 +100,7 @@
     "id": 13,
     "name": "Burger",
     "age": 30,
+    "title": "Gen 4",
     "imgURL": "https://images.unsplash.com/photo-1644447295446-19b7e712a895?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
     },
 
@@ -95,6 +108,7 @@
     "id": 14,
     "name": "Mango Ice Cream",
     "age": 29,
+    "title": "Gen 4",
     "imgURL": "https://images.unsplash.com/photo-1643813069855-7c9d8b6a8e66?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
     },
 
@@ -102,6 +116,7 @@
     "id": 15,
     "name": "Macarons",
     "age": 29,
+    "title": "Gen 4",
     "imgURL": "https://images.unsplash.com/photo-1643628580623-032e07f93364?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
     },
 
@@ -109,6 +124,7 @@
     "id": 16,
     "name": "Citrus",
     "age": 29,
+    "title": "Gen 4",
     "imgURL": "https://images.unsplash.com/photo-1643131514219-1e480cce39aa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
     },
 
@@ -116,6 +132,7 @@
     "id": 17,
     "name": "Latte",
     "age": 30,
+    "title": "Gen 4",
     "imgURL": "https://images.unsplash.com/photo-1641135306481-5f4e84567259?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80"
     },
 
@@ -123,6 +140,7 @@
     "id": 18,
     "name": "Scone",
     "age": 29,
+    "title": "Gen 4",
     "imgURL": "https://images.unsplash.com/photo-1640660611022-5e0fbcc9ebd2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80"
     },
 
@@ -130,6 +148,7 @@
     "id": 19,
     "name": "Coffee",
     "age": 29,
+    "title": "Gen 4",
     "imgURL": "https://images.unsplash.com/photo-1639677322786-3c8154ebd750?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=327&q=80"
     },
 
@@ -137,6 +156,7 @@
     "id": 20,
     "name": "Garlic",
     "age": 29,
+    "title": "Gen 4",
     "imgURL": "https://images.unsplash.com/photo-1638723227150-8b805891321f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
     }
   ]
