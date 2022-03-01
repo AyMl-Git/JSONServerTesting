@@ -198,46 +198,6 @@
     "age": 30,
     "title": "Gen 5",
     "imgURL": "https://images.unsplash.com/photo-1635572228172-ff4ea7f07e8f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
-    },
-
-    {
-    "id": 26,
-    "name": "Cake",
-    "age": 29,
-    "title": "Gen 2",
-    "imgURL": "https://images.unsplash.com/photo-1635337778028-ddafdaa5c301?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDUzMnx4alBSNGhsa0JHQXx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60"
-    },
-
-    {
-    "id": 27,
-    "name": "Orange",
-    "age": 29,
-    "title": "Gen 2",
-    "imgURL": "https://images.unsplash.com/photo-1635261360007-834ec2682b82?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDUzM3x4alBSNGhsa0JHQXx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60"
-    },
-
-    {
-    "id": 28,
-    "name": "Ice Cream",
-    "age": 29,
-    "title": "Gen 4",
-    "imgURL": "https://images.unsplash.com/photo-1634921939543-70dcd396734f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80"
-    },
-
-    {
-    "id": 29,
-    "name": "Oreo",
-    "age": 30,
-    "title": "Gen 4",
-    "imgURL": "https://images.unsplash.com/photo-1620975521787-79b6a3465a0a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDU4MXx4alBSNGhsa0JHQXx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60"
-    },
-
-    {
-    "id": 30,
-    "name": "Spinage",
-    "age": 29,
-    "title": "Gen 4",
-    "imgURL": "https://images.unsplash.com/photo-1633933329875-044a32f4837f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDY1OHx4alBSNGhsa0JHQXx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60"
     }
   ]
 }
