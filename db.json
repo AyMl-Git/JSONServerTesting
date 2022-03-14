@@ -3,8 +3,8 @@
     {
     "id": 1,
     "name": "Fruits",
-    "age": 30,
-    "title": "Gen 4",
+    "type": "Food",
+    "date": "Gen 4",
     "description": "Veges on a fork. Looks like fruit on a fork, but it's veges. Deliciously healthy. Mushroom and broccoli",
     "imgURL": "https://images.unsplash.com/photo-1644704480315-bc18243f5f79?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80"
     },
@@ -12,8 +12,8 @@
     {
     "id": 2,
     "name": "Cereal",
-    "age": 29,
-    "title": "Gen 5",
+    "type": "Food",
+    "date": "Gen 5",
     "description": "Blueberries and strawberries, a fruity sensation to any cereal addition. Scoop it to your mouth for a pleasureful sensation",
     "imgURL": "https://images.unsplash.com/photo-1645517976245-569a91016f79?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=361&q=80"
     },
@@ -21,8 +21,8 @@
     {
     "id": 3,
     "name": "Mushroom",
-    "age": 29,
-    "title": "Gen 2",
+    "type": "Food",
+    "date": "Gen 2",
     "description": "Undeniably delicious with it's bouncy texture.",
     "imgURL": "https://images.unsplash.com/photo-1645106540091-219948d3ce39?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80"
     },
@@ -30,8 +30,8 @@
     {
     "id": 4,
     "name": "Burger",
-    "age": 29,
-    "title": "Gen 5",
+    "type": "Food",
+    "date": "Gen 5",
     "description": "Juicy and flavorful. Medium-rare cooked to perfection",
     "imgURL": "https://images.unsplash.com/photo-1637637187692-9736fe7b7973?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDM0OHx4alBSNGhsa0JHQXx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=600&q=60"
     },
@@ -39,8 +39,8 @@
     {
     "id": 5,
     "name": "Yogurt",
-    "age": 30,
-    "title": "Gen 5",
+    "type": "Food",
+    "date": "Gen 5",
     "description": "Nothing like a bowl of yogurt with fresh fruits.",
     "imgURL": "https://images.unsplash.com/photo-1645466525466-647ef246067f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
     },
@@ -48,8 +48,8 @@
     {
     "id": 6,
     "name": "Coffee",
-    "age": 29,
-    "title": "Gen 2",
+    "type": "Drink",
+    "date": "Gen 2",
     "description": "Why have coffee in a cup when you can have it in a glass to give that classic look",
     "imgURL": "https://images.unsplash.com/photo-1645268087365-953f5638f21e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=415&q=80"
     },
@@ -57,8 +57,8 @@
     {
     "id": 7,
     "name": "Juice",
-    "age": 29,
-    "title": "Gen 2",
+    "type": "Drink",
+    "date": "Gen 2",
     "description": "A tropical blend of orange and grapefruit with touch of lime for that zesty kick",
     "imgURL": "https://images.unsplash.com/photo-1633932934464-5420d4bc89e6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDQ0NXx4alBSNGhsa0JHQXx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=600&q=60"
     },
@@ -66,8 +66,8 @@
     {
     "id": 8,
     "name": "Pudding",
-    "age": 29,
-    "title": "Gen 4",
+    "type": "Food",
+    "date": "Gen 5",
     "description": "Ah milk pudding. Silky, smooth, melty. A classic, and base for all different flavor",
     "imgURL": "https://images.unsplash.com/photo-1645377370247-c4354ce4d328?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80"
     },
@@ -75,8 +75,8 @@
     {
     "id": 9,
     "name": "Hot Chocolate",
-    "age": 30,
-    "title": "Gen 4",
+    "type": "Drink",
+    "date": "Gen 4",
     "description": "Never forget the marshmallow. Now powder it some more with chocolate",
     "imgURL": "https://images.unsplash.com/photo-1639046033583-390653f5c09a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
     },
@@ -84,8 +84,8 @@
     {
     "id": 10,
     "name": "Blood Oranges",
-    "age": 29,
-    "title": "Gen 4",
+    "type": "Food",
+    "date": "Gen 4",
     "description": "The only orange that should be eaten and not it's counter part. The only king and sweet orange",
     "imgURL": "https://images.unsplash.com/photo-1644751291719-574ef771ba30?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80"
     },
@@ -93,8 +93,8 @@
     {
     "id": 11,
     "name": "Porridge",
-    "age": 29,
-    "title": "Gen 4",
+    "type": "Food",
+    "date": "Gen 4",
     "description": "Not to be mistaken as the savoury congee. This may be oatmeal parridge",
     "imgURL": "https://images.unsplash.com/photo-1636143938273-5757142a76e5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
     },
@@ -102,8 +102,8 @@
     {
     "id": 12,
     "name": "Apple",
-    "age": 29,
-    "title": "Gen 4",
+    "type": "Food",
+    "date": "Gen 3",
     "description": "Ryuk's food. Only reason to have include this here",
     "imgURL": "https://images.unsplash.com/photo-1644440534168-b07b44354388?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
     },
@@ -111,8 +111,8 @@
     {
     "id": 13,
     "name": "Burger",
-    "age": 30,
-    "title": "Gen 4",
+    "type": "Food",
+    "date": "Gen 3",
     "description": "Melty cheese with the hot sauce dripping. Somebody need to remove that hot sauce or ketchup",
     "imgURL": "https://images.unsplash.com/photo-1644447295446-19b7e712a895?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
     },
@@ -120,8 +120,8 @@
     {
     "id": 14,
     "name": "Mango Ice Cream",
-    "age": 29,
-    "title": "Gen 4",
+    "type": "Food",
+    "date": "Gen 3",
     "description": "Hopefully made from the only edible mango in the mango family. If it's not honey mango, let's just skip this",
     "imgURL": "https://images.unsplash.com/photo-1643813069855-7c9d8b6a8e66?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
     },
@@ -129,8 +129,8 @@
     {
     "id": 15,
     "name": "Macarons",
-    "age": 29,
-    "title": "Gen 4",
+    "type": "Food",
+    "date": "Gen 5",
     "description": "You thought initially it may be a soft chew when you bite into it. But it actually has a hard shell. The joy is gone",
     "imgURL": "https://images.unsplash.com/photo-1643628580623-032e07f93364?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
     },
@@ -138,8 +138,8 @@
     {
     "id": 16,
     "name": "Citrus",
-    "age": 29,
-    "title": "Gen 4",
+    "type": "Ingredient",
+    "date": "Gen 3",
     "description": "All the citrus you can think of in the citrus family. Nothing like this picture to satify those with a sour craving",
     "imgURL": "https://images.unsplash.com/photo-1643131514219-1e480cce39aa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
     },
@@ -147,8 +147,8 @@
     {
     "id": 17,
     "name": "Latte",
-    "age": 30,
-    "title": "Gen 4",
+    "type": "Drink",
+    "date": "Gen 3",
     "description": "Why have a shot when you can have a shot of milk in your coffee instead. Get a free visual as the milk mix with the caffe",
     "imgURL": "https://images.unsplash.com/photo-1641135306481-5f4e84567259?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80"
     },
@@ -156,8 +156,8 @@
     {
     "id": 18,
     "name": "Scone",
-    "age": 29,
-    "title": "Gen 4",
+    "type": "Food",
+    "date": "Gen 2",
     "description": "The best high tea snack. A picture with clotted cream will make it perfect.",
     "imgURL": "https://images.unsplash.com/photo-1640660611022-5e0fbcc9ebd2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80"
     },
@@ -165,8 +165,8 @@
     {
     "id": 19,
     "name": "Coffee",
-    "age": 29,
-    "title": "Gen 4",
+    "type": "Drink",
+    "date": "Gen 4",
     "description": "Steaming and silky. Black coffee for those who perfer it hot and steaming.",
     "imgURL": "https://images.unsplash.com/photo-1639677322786-3c8154ebd750?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=327&q=80"
     },
@@ -174,8 +174,8 @@
     {
     "id": 20,
     "name": "Garlic",
-    "age": 29,
-    "title": "Gen 4",
+    "type": "Ingredient",
+    "date": "Gen 2",
     "description": "The food that makes up all the flavor in all dishes.",
     "imgURL": "https://images.unsplash.com/photo-1638723227150-8b805891321f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
     }
